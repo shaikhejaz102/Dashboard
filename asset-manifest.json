@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.c0682b54.css",
+    "main.js": "/Dashboard/static/js/main.6317d5b3.js",
+    "static/js/787.5c84ed9b.chunk.js": "/Dashboard/static/js/787.5c84ed9b.chunk.js",
+    "static/media/3d-rendering-donut-chart-isolated_680816-216.png": "/Dashboard/static/media/3d-rendering-donut-chart-isolated_680816-216.c6897ceefb12e0222ca5.png",
+    "static/media/market-analysis.png": "/Dashboard/static/media/market-analysis.3806020f411073e5abbb.png",
+    "static/media/stock-market.png": "/Dashboard/static/media/stock-market.5504eb92eeef4e17f87d.png",
+    "static/media/in-stock.png": "/Dashboard/static/media/in-stock.d28c30e55dd5d9c01226.png",
+    "static/media/spotify.png": "/Dashboard/static/media/spotify.354b4fb0550ea999320c.png",
+    "static/media/github.png": "/Dashboard/static/media/github.f11021803f68852df283.png",
+    "static/media/youtube.png": "/Dashboard/static/media/youtube.b4f2b64af1b614ce26dc.png",
+    "index.html": "/Dashboard/index.html",
+    "main.c0682b54.css.map": "/Dashboard/static/css/main.c0682b54.css.map",
+    "main.6317d5b3.js.map": "/Dashboard/static/js/main.6317d5b3.js.map",
+    "787.5c84ed9b.chunk.js.map": "/Dashboard/static/js/787.5c84ed9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0682b54.css",
+    "static/js/main.6317d5b3.js"
+  ]
+}
